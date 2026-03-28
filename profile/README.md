@@ -10,6 +10,7 @@ We build stupidly powerful software.
 
 * [**.github**](https://github.com/StupendousApps/.github) — org profile and shared templates
 * [**StupendousAgents**](https://github.com/StupendousApps/StupendousAgents) — shared agent guidance and style catalogue
+* [**StupendousApps.github.io**](https://github.com/StupendousApps/StupendousApps.github.io) — organization website
 
 ### Client
 
@@ -21,7 +22,6 @@ We build stupidly powerful software.
 
 ### Server
 
-* [**StupendousApps.github.io**](https://github.com/StupendousApps/StupendousApps.github.io) — organization website
 * [**DottyWeb**](https://github.com/StupendousApps/DottyWeb) — public surface
 * [**DottyCloudOrchestrator**](https://github.com/StupendousApps/DottyCloudOrchestrator) — accounts and shared projects
 * [**DottyLicenseServer**](https://github.com/StupendousApps/DottyLicenseServer) — licensing, payments, updates
