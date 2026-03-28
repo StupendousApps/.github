@@ -11,19 +11,19 @@ Workspace-level agent guidance and documentation for the Stupendous codebase.
 
 ### Client
 
-- [`Dotty`](https://github.com/StupendousApps/Dotty): Main macOS app, including UI, windows, controllers, and app orchestration.
-- [`DottyModels`](https://github.com/StupendousApps/DottyModels): Private/local domain models and persistence structures for user-sensitive data.
+- [`Dotty`](https://github.com/StupendousApps/Dotty): Native macOS app.
+- [`DottyCommunityClient`](https://github.com/StupendousApps/DottyCommunityClient): Client SDK for public APIs.
+- [`DottySharedClient`](https://github.com/StupendousApps/DottySharedClient): Client SDK and local sync runtime for shared data.
+- [`DottyModels`](https://github.com/StupendousApps/DottyModels): Private/local data models.
 - [`DottyRichText`](https://github.com/StupendousApps/DottyRichText): Shared rich-text toolkit.
-- [`DottyCommunityClient`](https://github.com/StupendousApps/DottyCommunityClient): Client SDK for community/public APIs only.
-- [`DottySharedClient`](https://github.com/StupendousApps/DottySharedClient): Client SDK and local sync runtime for shared company/group data.
 
 ### Server
 
-- [`DottyCloudOrchestrator`](https://github.com/StupendousApps/DottyCloudOrchestrator): Centralized deployment, Kamal orchestration, local routing, and shared Dockerfiles.
-- [`DottySharedServer`](https://github.com/StupendousApps/DottySharedServer): Shared-data service for collaboration and replicated company content flows.
-- [`DottyCommunityServer`](https://github.com/StupendousApps/DottyCommunityServer): Community/public backend service for public APIs.
-- [`DottyLicenseServer`](https://github.com/StupendousApps/DottyLicenseServer): License-related backend services.
-- [`DottyWeb`](https://github.com/StupendousApps/DottyWeb): Website and documentation content.
+- [`DottyWeb`](https://github.com/StupendousApps/DottyWeb): Public surface.
+- [`DottyLicenseServer`](https://github.com/StupendousApps/DottyLicenseServer): Licensing, payments, updates.
+- [`DottyCloudOrchestrator`](https://github.com/StupendousApps/DottyCloudOrchestrator): Accounts and shared projects.
+- [`DottyCommunityServer`](https://github.com/StupendousApps/DottyCommunityServer): Member community.
+- [`DottySharedServer`](https://github.com/StupendousApps/DottySharedServer): Shared company data and collaboration sync.
 
 ## Notes
 
