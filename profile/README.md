@@ -31,6 +31,7 @@ Your system. Your rules.
 * [**DottyCommunityServer**](https://github.com/StupendousApps/DottyCommunityServer) — member community
 * [**DottySharedServer**](https://github.com/StupendousApps/DottySharedServer) — shared company data and collaboration sync
 * [**DottyCommunityClient**](https://github.com/StupendousApps/DottyCommunityClient) — client SDK for public APIs
+* [**DottySharedClient**](https://github.com/StupendousApps/DottySharedClient) — client SDK and local sync runtime for shared data
 * [**DottyModels**](https://github.com/StupendousApps/DottyModels) — private/local data models
 * [**DottyRichText**](https://github.com/StupendousApps/DottyRichText) — shared rich-text toolkit
 * [**StupendousAgents**](https://github.com/StupendousApps/StupendousAgents) — shared agent guidance and style catalogue

@@ -13,6 +13,7 @@ Workspace-level agent guidance and documentation for the Stupendous codebase.
 - [`DottyCloudOrchestrator`](https://github.com/StupendousApps/DottyCloudOrchestrator): Centralized deployment, Kamal orchestration, local routing, and shared Dockerfiles.
 - [`DottyWeb`](https://github.com/StupendousApps/DottyWeb): Website and documentation content.
 - [`DottyCommunityClient`](https://github.com/StupendousApps/DottyCommunityClient): Client SDK for community/public APIs only.
+- [`DottySharedClient`](https://github.com/StupendousApps/DottySharedClient): Client SDK and local sync runtime for shared company/group data.
 - [`DottyModels`](https://github.com/StupendousApps/DottyModels): Private/local domain models and persistence structures for user-sensitive data.
 - [`DottyRichText`](https://github.com/StupendousApps/DottyRichText): Shared rich-text toolkit.
 
