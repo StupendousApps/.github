@@ -29,7 +29,7 @@ Your system. Your rules.
 * [**DottyLicenseServer**](https://github.com/StupendousApps/DottyLicenseServer) — licensing, payments, updates
 * [**DottyCloudOrchestrator**](https://github.com/StupendousApps/DottyCloudOrchestrator) — accounts and shared projects
 * [**DottyCommunityServer**](https://github.com/StupendousApps/DottyCommunityServer) — member community
-* [**DottyAccountServer**](https://github.com/StupendousApps/DottyAccountServer) — registration and shared user data
+* [**DottySharedServer**](https://github.com/StupendousApps/DottySharedServer) — shared company data and collaboration sync
 * [**DottyCommunityClient**](https://github.com/StupendousApps/DottyCommunityClient) — client SDK for public APIs
 * [**DottyModels**](https://github.com/StupendousApps/DottyModels) — private/local data models
 * [**DottyRichText**](https://github.com/StupendousApps/DottyRichText) — shared rich-text toolkit
