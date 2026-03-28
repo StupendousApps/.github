@@ -1,6 +1,9 @@
 # StupendousApps
 
-We build software that adapts to how people think.
+We build apps for people who love computers, but do not want to think about how they work.
+
+Software should feel powerful, personal, and direct.
+It should adapt to the user, not force the user to adapt to the system.
 
 ---
 
@@ -36,9 +39,9 @@ Your system. Your rules.
 
 ## Philosophy
 
+People should be able to shape their own tools without learning the machinery behind them.
 Tools should be independent and composable.
 Systems should emerge, not be imposed.
-The software should adapt to the user.
 
 ---
 
