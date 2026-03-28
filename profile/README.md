@@ -1,28 +1,10 @@
 # StupendousApps
 
-We build apps for people who love computers, but do not want to think about how they work.
-
-Software should feel powerful, personal, and direct.
-It should adapt to the user, not force the user to adapt to the system.
+We build stupidly powerful software.
 
 ---
 
-## Dotty
-
-A native macOS app for designing your own planning system.
-
-Not templates.
-Not rigid workflows.
-
-A system you build yourself.
-
-Tasks, notes, habits, and data arranged into visual workspaces that match how your mind works.
-
-Your system. Your rules.
-
----
-
-## Projects
+## Repos
 
 ### Organization
 
@@ -44,17 +26,3 @@ Your system. Your rules.
 * [**DottyLicenseServer**](https://github.com/StupendousApps/DottyLicenseServer) — licensing, payments, updates
 * [**DottyCommunityServer**](https://github.com/StupendousApps/DottyCommunityServer) — member community
 * [**DottySharedServer**](https://github.com/StupendousApps/DottySharedServer) — shared company data and collaboration sync
-
----
-
-## Philosophy
-
-People should be able to shape their own tools without learning the machinery behind them.
-Tools should be independent and composable.
-Systems should emerge, not be imposed.
-
----
-
-## Status
-
-In active development.
