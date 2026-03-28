@@ -32,16 +32,16 @@ Your system. Your rules.
 ### Client
 
 * [**Dotty**](https://github.com/StupendousApps/Dotty) — native macOS app
-* [**DottyCommunityClient**](https://github.com/StupendousApps/DottyCommunityClient) — client SDK for public APIs
-* [**DottySharedClient**](https://github.com/StupendousApps/DottySharedClient) — client SDK and local sync runtime for shared data
 * [**DottyModels**](https://github.com/StupendousApps/DottyModels) — private/local data models
 * [**DottyRichText**](https://github.com/StupendousApps/DottyRichText) — shared rich-text toolkit
+* [**DottyCommunityClient**](https://github.com/StupendousApps/DottyCommunityClient) — client SDK for public APIs
+* [**DottySharedClient**](https://github.com/StupendousApps/DottySharedClient) — client SDK and local sync runtime for shared data
 
 ### Server
 
 * [**DottyWeb**](https://github.com/StupendousApps/DottyWeb) — public surface
-* [**DottyLicenseServer**](https://github.com/StupendousApps/DottyLicenseServer) — licensing, payments, updates
 * [**DottyCloudOrchestrator**](https://github.com/StupendousApps/DottyCloudOrchestrator) — accounts and shared projects
+* [**DottyLicenseServer**](https://github.com/StupendousApps/DottyLicenseServer) — licensing, payments, updates
 * [**DottyCommunityServer**](https://github.com/StupendousApps/DottyCommunityServer) — member community
 * [**DottySharedServer**](https://github.com/StupendousApps/DottySharedServer) — shared company data and collaboration sync
 
