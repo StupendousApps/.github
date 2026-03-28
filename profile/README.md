@@ -21,7 +21,7 @@ We build stupidly powerful software.
 
 ### Server
 
-* [**StupendousApps**](https://github.com/StupendousApps/StupendousApps) — organization website
+* [**StupendousApps.github.io**](https://github.com/StupendousApps/StupendousApps.github.io) — organization website
 * [**DottyWeb**](https://github.com/StupendousApps/DottyWeb) — public surface
 * [**DottyCloudOrchestrator**](https://github.com/StupendousApps/DottyCloudOrchestrator) — accounts and shared projects
 * [**DottyLicenseServer**](https://github.com/StupendousApps/DottyLicenseServer) — licensing, payments, updates
