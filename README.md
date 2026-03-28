@@ -7,23 +7,22 @@ Workspace-level agent guidance and documentation for the Stupendous codebase.
 ### Organization
 
 - [`.github`](https://github.com/StupendousApps/.github): Organization profile, shared templates, and org-level documentation.
-- [`StupendousApps`](https://github.com/StupendousApps/StupendousApps): Root workspace repo for shared agent guidance, style catalogue, and top-level documentation.
-- [`DottyCloud`](https://github.com/StupendousApps/StupendousApps): Local cloud workspace umbrella used to group the backend, orchestration, and web repos in one place.
+- [`StupendousAgents`](https://github.com/StupendousApps/StupendousAgents): Shared agent guidance, style catalogue, and workspace-level documentation.
 
 ### Client
 
 - [`Dotty`](https://github.com/StupendousApps/Dotty): Main macOS app, including UI, windows, controllers, and app orchestration.
-- [`DottyCommunityClient`](https://github.com/StupendousApps/DottyCommunityClient): Client SDK for community/public APIs only.
-- [`DottySharedClient`](https://github.com/StupendousApps/DottySharedClient): Client SDK and local sync runtime for shared company/group data.
 - [`DottyModels`](https://github.com/StupendousApps/DottyModels): Private/local domain models and persistence structures for user-sensitive data.
 - [`DottyRichText`](https://github.com/StupendousApps/DottyRichText): Shared rich-text toolkit.
+- [`DottyCommunityClient`](https://github.com/StupendousApps/DottyCommunityClient): Client SDK for community/public APIs only.
+- [`DottySharedClient`](https://github.com/StupendousApps/DottySharedClient): Client SDK and local sync runtime for shared company/group data.
 
 ### Server
 
+- [`DottyCloudOrchestrator`](https://github.com/StupendousApps/DottyCloudOrchestrator): Centralized deployment, Kamal orchestration, local routing, and shared Dockerfiles.
 - [`DottySharedServer`](https://github.com/StupendousApps/DottySharedServer): Shared-data service for collaboration and replicated company content flows.
 - [`DottyCommunityServer`](https://github.com/StupendousApps/DottyCommunityServer): Community/public backend service for public APIs.
 - [`DottyLicenseServer`](https://github.com/StupendousApps/DottyLicenseServer): License-related backend services.
-- [`DottyCloudOrchestrator`](https://github.com/StupendousApps/DottyCloudOrchestrator): Centralized deployment, Kamal orchestration, local routing, and shared Dockerfiles.
 - [`DottyWeb`](https://github.com/StupendousApps/DottyWeb): Website and documentation content.
 
 ## Notes
