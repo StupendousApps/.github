@@ -12,17 +12,19 @@ We build stupidly powerful software.
 * [**StupendousAgents**](https://github.com/StupendousApps/StupendousAgents) — shared agent guidance and style catalogue
 * [**StupendousApps.github.io**](https://github.com/StupendousApps/StupendousApps.github.io) — organization website
 
-### Client
+### Marketing
+* [**DottyWeb**](https://github.com/StupendousApps/DottyWeb) — Website for dotty.app
 
+### Projects
 * [**Dotty**](https://github.com/StupendousApps/Dotty) — native macOS app
+
+### Libraries
 * [**DottyModels**](https://github.com/StupendousApps/DottyModels) — private/local data models
 * [**DottyRichText**](https://github.com/StupendousApps/DottyRichText) — shared rich-text toolkit
 * [**DottyCommunityClient**](https://github.com/StupendousApps/DottyCommunityClient) — client SDK for public APIs
 * [**DottySharedClient**](https://github.com/StupendousApps/DottySharedClient) — client SDK and local sync runtime for shared data
 
-### Server
-
-* [**DottyWeb**](https://github.com/StupendousApps/DottyWeb) — public surface
+### Cloud
 * [**DottyCloudOrchestrator**](https://github.com/StupendousApps/DottyCloudOrchestrator) — accounts and shared projects
 * [**DottyLicenseServer**](https://github.com/StupendousApps/DottyLicenseServer) — licensing, payments, updates
 * [**DottyCommunityServer**](https://github.com/StupendousApps/DottyCommunityServer) — member community
